@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shu Han"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+# description              : "Undergraduate in Software Engineering at Wuhan University"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -27,7 +27,7 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=qZGkubsAAAAJ"
   email            : "shuhan0016@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

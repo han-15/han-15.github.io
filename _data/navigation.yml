@@ -3,6 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Educations"
+    url: "/#-educations"
 
   - title: "Publications"
     url: "/#-publications"
@@ -11,8 +13,6 @@ main:
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Internships"
     url: "/#-internships"

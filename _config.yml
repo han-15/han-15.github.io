@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shu Han"
-# description              : "Undergraduate in Software Engineering at Wuhan University"
+description              : "Undergraduate in Software Engineering at Wuhan University"
 repository               : "han-15/han-15.github.io"
 google_scholar_stats_use_cdn : false
 

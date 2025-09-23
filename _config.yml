@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shu Han"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate in Software Engineering at Wuhan University"
+  bio              : 
   location         : "Wuhan, China"
   employer         :
   pubmed           : 

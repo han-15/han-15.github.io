@@ -20,7 +20,7 @@ redirect_from:
 
 I am an undergraduate student at Wuhan University, majoring in Software Engineering, with a GPA of 3.95/4.0 (1/235). 
 
-My research interests include controllable video generation, autonomous driving simulation, 3D perception, AI4Neuroscience, and embodied AI.  
+My research interests include robotics,3D perception, controllable generation, autonomous driving simulation, AI4Neuroscience, and embodied AI.  
 
 # 📖 Educations
 - *2022.09 - 2026.06*, Wuhan University, Software Engineering, Bachelor's degree.

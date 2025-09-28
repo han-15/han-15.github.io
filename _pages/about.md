@@ -65,7 +65,7 @@ My research interests include robotics,3D perception, controllable generation, a
 
 - **Targetless LiDAR-Camera Calibration via Probabilistic Depth Flow**, *2025.01 - 2025.07*  
   [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/), *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
-  - Innovatively proposed a targetless LiDAR-camera calibration framework that reframes cross-modal correspondence estimation as a probabilistic intra-modality depth flow estimation problem.
+  - Innovatively proposed a targetless LiDAR-camera calibration framework that reformulates the cross-modal calibration task as a probabilistic intra-modality depth flow estimation problem.
   - Converted camera and LiDAR data into a unified modality and implemented a probabilistic depth flow network for robust correspondence estimation, outperforming existing methods with significantly higher accuracy.
   - WACV, under review [📎](https://arxiv.org/abs/2504.01416)
 

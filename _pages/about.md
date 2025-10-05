@@ -105,11 +105,11 @@ My research interests include robotics,3D perception, controllable generation, a
 
 # 🛠️ Skills
 
-**Coding**  
-Python, C/C++, Java, Shell (Bash)
+- **Coding**  
+  Python, C/C++, Java, Shell (Bash)
 
-**Frameworks**  
-PyTorch, ROS/ROS2, Gazebo
+- **Frameworks**  
+  PyTorch, ROS/ROS2, Gazebo
 
-**Misc.**  
-Docker, Git, Linux, Markdown, LaTeX
+- **Misc.**  
+  Docker, Git, Linux, Markdown, LaTeX

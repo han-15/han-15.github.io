@@ -54,37 +54,37 @@ My research interests include robotics,3D perception, controllable generation, a
 # 🔬 Research Experience
 
 - **Efficient Video Restoration for Autonomous Driving Scene Reconstruction**, *2025.07 - present*  
-  [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), *Advisor: [Prof. Hao Zhao](https://sites.google.com/view/fromandto)*
+  [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/), *Project Lead*, *Advisor: [Prof. Hao Zhao](https://sites.google.com/view/fromandto)*
   - Designed a video-level restoration framework for autonomous driving scenarios, enabling temporally consistent novel-view rendering under complex maneuvers.
   - Developed an efficient diffusion-based enhancer with spatio-temporal consistency constraints, achieving faster inference and improved artifact removal compared to existing baselines on driving benchmarks.
 
 - **Brain Signals2Video: Scene-Level Video Generation from Neural Activity**, *2025.08 - present*  
-  [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), *Advisor: [Prof. Hao Zhao](https://sites.google.com/view/fromandto)*
+  [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/), *Project Lead*, *Advisor: [Prof. Hao Zhao](https://sites.google.com/view/fromandto)*
   - Pioneered the first large-scale brain-to-video reconstruction framework enabling dynamic scene-level video generation directly from neural electrical activity.
-  - Architected novel Seq2Seq framework for neuroanatomically-informed cross-modal alignment, achieving state-of-the-art performance in neural-to-visual decoding through advanced diffusion transformer optimization.
+  - Architected novel Seq2Seq framework for neuroanatomically-informed cross-modal alignment, achieving state-of-the-art performance in neural-to-visual decoding through advanced diffusion transformer framework.
 
 - **Targetless LiDAR-Camera Calibration via Probabilistic Depth Flow**, *2025.01 - 2025.07*  
-  [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/), *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
+  [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/), *Project Lead*, *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
   - Innovatively proposed a targetless LiDAR-camera calibration framework that reformulates the cross-modal calibration task as a probabilistic intra-modality depth flow estimation problem.
   - Converted camera and LiDAR data into a unified modality and implemented a probabilistic depth flow network for robust correspondence estimation, outperforming existing methods with significantly higher accuracy.
-  - WACV, under review [📎](https://arxiv.org/abs/2504.01416)
+  - WACV 2026, under review [📎](https://arxiv.org/abs/2504.01416)
 
 - **Lightweight Camera Localization in LiDAR Maps via Cross-Modal Correspondence**, *2024.08 - 2025.03*  
-  [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/), *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
+  [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/), *Project Member*, *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
   - Developed a novel lightweight camera localization framework within LiDAR maps using a three-branch architecture for cross-modal correspondence prediction.
   - Designed Zero-Flow Feature Cost Branch and 2D-3D Pixel Cost Branch to address LiDAR sparsity and lightweight model trade-offs, achieving high accuracy with 37ms inference time for real-time applications.
-  - RA-L, accepted [📎](https://ieeexplore.ieee.org/abstract/document/11045122)
+  - RA-L 2025, accepted [📎](https://ieeexplore.ieee.org/abstract/document/11045122)
 
 - **Large-Scale Point Cloud Registration using Semantic Quadric Primitives**, *2024.02 - 2025.06*  
-  [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/), *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
+  [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/), *Project Member*, *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
   - Proposed a systematic framework for point cloud registration using semantic quadric primitives, effectively handling large-scale scene challenges.
   - Developed robust quadrics graph matching strategy and degeneracy-aware quadric distance estimation for 6-DoF transformation, achieving exceptional registration success rates across multiple datasets.
-  - T-RO, under review [📎](https://arxiv.org/abs/2412.02998)
+  - T-RO 2025, under review [📎](https://arxiv.org/abs/2412.02998)
 
 - **Micro UAV Swarm Exploration and Mapping in Complex Denial Environments**, *2024.09 - 2025.06*  
-  [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/), *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
+  [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/), *Project Lead*, *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
   - Developed micro UAV swarm system achieving autonomous exploration and 3D mapping in GNSS-denied environments with limited communication, demonstrating robust performance under challenging conditions.
-  - Designed distributed swarm coordination and task allocation algorithms enabling efficient collaboration under asynchronous unreliable communication protocols.
+  - Employed distributed swarm coordination and task allocation algorithms enabling efficient collaboration under asynchronous unreliable communication protocols.
   - Luojia Undergraduate Research Innovation Fund—Excellent Award, **1st** in Engineering (university-wide) [📎](https://news.whu.edu.cn/info/1015/470117.htm) [📎](https://uc.whu.edu.cn/2022/show.jsp?urltype=news.NewsContentUrl&wbtreeid=1517&wbnewsid=122531)
 
 <!-- # 🎖 Honors and Awards
@@ -95,4 +95,4 @@ My research interests include robotics,3D perception, controllable generation, a
 
 
 # 💻 Internships
-- *2025.07 - present*, [AIR, Tsinghua University](https://air.tsinghua.edu.cn/en/), Research Intern.
+- *2025.07 - present*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/), Research Intern.

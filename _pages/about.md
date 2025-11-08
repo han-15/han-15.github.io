@@ -95,34 +95,13 @@ My research interests include robotics,3D perception, controllable generation, a
   Docker, Git, Linux, Markdown, LaTeX
 
 
-
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 # 🎖 Honors and Awards
-- *2025* National Scholarship - Top 0.2% nationwide
-- *2025* Second-class Scholarship - Top 10% college-wide 
-- *2025* Outstanding Social Engagement Award - Top 5% college-wide 
-- *2024* Second-class Scholarship - Top 10% college-wide 
-- *2024* Luojia Undergraduate Research Fund - Top 0.2% university-wide 
-- *2023* Second-class Scholarship - Top 10% college-wide 
-
-<!-- \begin{rubric}{Honors and Awards}
-\entry*[2025]%
-    National Scholarship\quad Top 0.2$\%$ nationwide
-\entry*[2025]%
-    Second-class Scholarship\quad Top 10$\%$ college-wide 
-\entry*[2025]%
-    Outstanding Social Engagement Award\quad Top 5$\%$ college-wide 
-
-
-\entry*[2024]%
-    Second-class Scholarship\quad Top 10$\%$ college-wide 
-\entry*[2024]%
-    Luojia Undergraduate Research Fund \quad Top 0.2\% university-wide 
-\entry*[2023]%
-    Second-class Scholarship\quad Top 10$\%$ college-wide 
-\end{rubric} -->
+- *2025* **National Scholarship**: Top 0.2% nationwide
+- *2025* **Second-class Scholarship**: Top 10% college-wide 
+- *2025* **Outstanding Social Engagement Award**: Top 5% college-wide 
+- *2024* **Second-class Scholarship**: Top 10% college-wide 
+- *2024* **Luojia Undergraduate Research Fund**: Top 0.2% university-wide 
+- *2023* **Second-class Scholarship**: Top 10% college-wide 
 
 
 <!-- # 🔥 News

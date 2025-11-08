@@ -83,6 +83,15 @@ My research interests include robotics,3D perception, controllable generation, a
 # 💻 Internships
 - *2025.07 - present*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/), Research Intern.
 
+
+# 🎖 Honors and Awards
+- *2025* **National Scholarship**: Top 0.2% nationwide
+- *2025* **Second-class Scholarship**: Top 10% college-wide 
+- *2025* **Outstanding Social Engagement Award**: Top 5% college-wide 
+- *2024* **Second-class Scholarship**: Top 10% college-wide 
+- *2024* **Luojia Undergraduate Research Fund**: Top 0.2% university-wide 
+- *2023* **Second-class Scholarship**: Top 10% college-wide 
+
 # 🛠️ Skills
 
 - **Coding**  
@@ -93,15 +102,6 @@ My research interests include robotics,3D perception, controllable generation, a
 
 - **Misc.**  
   Docker, Git, Linux, Markdown, LaTeX
-
-
-# 🎖 Honors and Awards
-- *2025* **National Scholarship**: Top 0.2% nationwide
-- *2025* **Second-class Scholarship**: Top 10% college-wide 
-- *2025* **Outstanding Social Engagement Award**: Top 5% college-wide 
-- *2024* **Second-class Scholarship**: Top 10% college-wide 
-- *2024* **Luojia Undergraduate Research Fund**: Top 0.2% university-wide 
-- *2023* **Second-class Scholarship**: Top 10% college-wide 
 
 
 <!-- # 🔥 News

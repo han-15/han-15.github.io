@@ -92,6 +92,7 @@ My research interests include robotics,3D perception, controllable generation, a
 - *2024* **Luojia Undergraduate Research Fund**: Top 0.2% university-wide 
 - *2023* **Second-class Scholarship**: Top 10% college-wide 
 
+<span class='anchor' id='-skills'></span>
 # 🛠️ Skills
 
 - **Coding**  

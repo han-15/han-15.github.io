@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 
 I am an undergraduate student at Wuhan University, majoring in Software Engineering, with a GPA of **3.95/4.0 (1/235)**. 
 
@@ -94,49 +85,3 @@ My research interests include robotics,3D perception, controllable generation, a
 - **Misc.**  
   Docker, Git, Linux, Markdown, LaTeX
 
-
-
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-# 🎖 Honors and Awards
-- *2025* National Scholarship - Top 0.2% nationwide
-- *2025* Second-class Scholarship - Top 10% college-wide 
-- *2025* Outstanding Social Engagement Award - Top 5% college-wide 
-- *2024* Second-class Scholarship - Top 10% college-wide 
-- *2024* Luojia Undergraduate Research Fund - Top 0.2% university-wide 
-- *2023* Second-class Scholarship - Top 10% college-wide 
-
-<!-- \begin{rubric}{Honors and Awards}
-\entry*[2025]%
-    National Scholarship\quad Top 0.2$\%$ nationwide
-\entry*[2025]%
-    Second-class Scholarship\quad Top 10$\%$ college-wide 
-\entry*[2025]%
-    Outstanding Social Engagement Award\quad Top 5$\%$ college-wide 
-
-
-\entry*[2024]%
-    Second-class Scholarship\quad Top 10$\%$ college-wide 
-\entry*[2024]%
-    Luojia Undergraduate Research Fund \quad Top 0.2\% university-wide 
-\entry*[2023]%
-    Second-class Scholarship\quad Top 10$\%$ college-wide 
-\end{rubric} -->
-
-
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->

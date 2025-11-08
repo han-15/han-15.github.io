@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<span class='anchor' id='about-me'></span>
 I am an undergraduate student at Wuhan University, majoring in Software Engineering, with a GPA of **3.95/4.0 (1/235)**. 
 
 My research interests include robotics,3D perception, controllable generation, autonomous driving simulation, AI4Neuroscience, and embodied AI.  
 
 # 📖 Educations
 - *2022.09 - 2026.06*, Wuhan University, Software Engineering, Bachelor's degree.
-
 
 
 # 📝 Publications 
@@ -82,8 +82,9 @@ My research interests include robotics,3D perception, controllable generation, a
 - *2024* **Luojia Undergraduate Research Fund**: Top 0.2% university-wide 
 - *2023* **Second-class Scholarship**: Top 10% college-wide 
 
-
+<span class='anchor' id='-skills'></span>
 # 🛠️ Skills
+
 - **Coding**  
   Python, C/C++, Java, Shell (Bash)
 
@@ -92,4 +93,5 @@ My research interests include robotics,3D perception, controllable generation, a
 
 - **Misc.**  
   Docker, Git, Linux, Markdown, LaTeX
+
 

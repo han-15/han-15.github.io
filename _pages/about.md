@@ -29,11 +29,21 @@ My research interests include robotics,3D perception, controllable generation, a
 
 # 📝 Publications 
 
-- **[UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations](https://arxiv.org/abs/2504.01416)**, **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia, *WACV 2026*
-- **[I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps](https://ieeexplore.ieee.org/abstract/document/11045122)**, H Yu, X Zhu, **S Han**, W Yang, G Xia, *RA-L 2025*
-- **[QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives](https://levenberg.github.io/QuadricsReg/)**, J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia, *T-RO under review*
-- **SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization**, X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia, *RA-L under review*
-- **Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation**, S Xu, S Wei, Q Wei, Z Geng, HLi, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao, *ICRA 2026 under review*
+- **[UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations](https://arxiv.org/abs/2504.01416)**
+  **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia
+  *WACV 2026*
+- **[I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps](https://ieeexplore.ieee.org/abstract/document/11045122)**
+  H Yu, X Zhu, **S Han**, W Yang, G Xia
+  *RA-L 2025*
+- **[QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives](https://levenberg.github.io/QuadricsReg/)**
+  J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
+  *T-RO under review*
+- **SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization**
+  X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
+  *RA-L under review*
+- **Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation**
+  S Xu, S Wei, Q Wei, Z Geng, HLi, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao
+  *ICRA 2026 under review*
 
 
 # 🔬 Research Experience

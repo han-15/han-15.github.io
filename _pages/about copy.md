@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am an undergraduate student at Wuhan University, majoring in Software Engineering, with a GPA of **3.95/4.0 (1/235)**. 
+I am an undergraduate student at Wuhan University, majoring in Software Engineering, with a GPA of **3.95/4.0 (1/230)**. 
 
 My research interests include robotics,3D perception, controllable generation, autonomous driving simulation, AI4Neuroscience, and embodied AI.  
 
@@ -21,11 +21,10 @@ My research interests include robotics,3D perception, controllable generation, a
 
 - **[UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations](https://arxiv.org/abs/2504.01416)**, **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia, *WACV 2026 under review*
 - **[I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps](https://ieeexplore.ieee.org/abstract/document/11045122)**, H Yu, X Zhu, **S Han**, W Yang, G Xia, *RA-L accepted*
-- **[QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives](https://arxiv.org/abs/2412.02998)**, J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia, *T-RO under review*
-
+- **[QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives](https://levenberg.github.io/QuadricsReg/)**, J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia, *T-RO under review*
+- **SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization**, X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia, *RA-L under review*
 - **Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation**, S Xu, S Wei, Q Wei, Z Geng, HLi, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao, *ICRA 2026 under review*
 
-- **SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization**, X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia, *RA-L under review*
 
 # 🔬 Research Experience
 

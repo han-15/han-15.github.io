@@ -31,11 +31,10 @@ My research interests include robotics,3D perception, controllable generation, a
 
 - **[UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations](https://arxiv.org/abs/2504.01416)**, **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia, *WACV 2026 under review*
 - **[I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps](https://ieeexplore.ieee.org/abstract/document/11045122)**, H Yu, X Zhu, **S Han**, W Yang, G Xia, *RA-L accepted*
-- **[QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives](https://arxiv.org/abs/2412.02998)**, J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia, *T-RO under review*
-
+- **[QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives](https://levenberg.github.io/QuadricsReg/)**, J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia, *T-RO under review*
+- **SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization**, X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia, *RA-L under review*
 - **Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation**, S Xu, S Wei, Q Wei, Z Geng, HLi, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao, *ICRA 2026 under review*
 
-- **SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization**, X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia, *RA-L under review*
 
 # 🔬 Research Experience
 
@@ -56,21 +55,21 @@ My research interests include robotics,3D perception, controllable generation, a
   *Project Lead* | *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
   - Innovatively proposed a targetless LiDAR-camera calibration framework that reformulates the cross-modal calibration task as a probabilistic intra-modality depth flow estimation problem.
   - Converted camera and LiDAR data into a unified modality and implemented a probabilistic depth flow network for robust correspondence estimation, outperforming existing methods with significantly higher accuracy.
-  - WACV 2026, under review [📎](https://arxiv.org/abs/2504.01416)
+  - WACV 2026 [📎](https://arxiv.org/abs/2504.01416)
 
 - **Lightweight Camera Localization in LiDAR Maps via Cross-Modal Correspondence**, *2024.08 - 2025.03*  
   [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/)  
   *Project Member* | *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
   - Developed a novel lightweight camera localization framework within LiDAR maps using a three-branch architecture for cross-modal correspondence prediction.
   - Designed Zero-Flow Feature Cost Branch and 2D-3D Pixel Cost Branch to address LiDAR sparsity and lightweight model trade-offs, achieving high accuracy with 37ms inference time for real-time applications.
-  - RA-L 2025, accepted [📎](https://ieeexplore.ieee.org/abstract/document/11045122)
+  - RA-L 2025 [📎](https://ieeexplore.ieee.org/abstract/document/11045122)
 
 - **Large-Scale Point Cloud Registration using Semantic Quadric Primitives**, *2024.02 - 2025.06*  
   [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/)  
   *Project Member* | *Advisors: [Prof. Gui-song Xia](http://www.captain-whu.com/en/person/xiaguisong.html), [Prof. Huai Yu](https://levenberg.github.io/)*
   - Proposed a systematic framework for point cloud registration using semantic quadric primitives, effectively handling large-scale scene challenges.
   - Developed robust quadrics graph matching strategy and degeneracy-aware quadric distance estimation for 6-DoF transformation, achieving exceptional registration success rates across multiple datasets.
-  - T-RO 2025, under review [📎](https://arxiv.org/abs/2412.02998)
+  - T-RO , under review [📎](https://arxiv.org/abs/2412.02998)
 
 - **Micro UAV Swarm Exploration and Mapping in Complex Denial Environments**, *2024.09 - 2025.06*  
   [CAPTAIN Lab, Wuhan University](http://www.captain-whu.com/en/)  

@@ -32,6 +32,9 @@ My research interests include robotics,3D perception, controllable generation, a
 - **[UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations](https://arxiv.org/abs/2504.01416)**  
   **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia  
   *WACV 2026*
+- **OmniFix: Video Diffusion Fixer for dynamic driving scene Reconstructions**  
+  Gen Li\*, **S Han**\*·, Nan Wang, Bohan Li, Ziyang Yan, ChenHua, Tiecheng Sun, Hao Zhao  
+  *CVPR 2026, under review*
 - **[I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps](https://ieeexplore.ieee.org/abstract/document/11045122)**  
   H Yu, X Zhu, **S Han**, W Yang, G Xia  
   *RA-L 2025*
@@ -47,11 +50,11 @@ My research interests include robotics,3D perception, controllable generation, a
 
 # 🔬 Research Experience
 
-- **Efficient Video Restoration for Autonomous Driving Scene Reconstruction**, *2025.07 - present*  
+- **Unified Video Restoration for Autonomous Driving Simulation**, *2025.07 - present*  
   [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/)  
   *Project Lead* | *Advisor: [Prof. Hao Zhao](https://sites.google.com/view/fromandto)*
-  - Designed a video-level restoration framework for autonomous driving scenarios, enabling temporally consistent novel-view rendering under complex maneuvers.
-  - Developed an efficient diffusion-based enhancer with spatio-temporal consistency constraints, achieving faster inference and improved artifact removal compared to existing baselines on driving benchmarks.
+  - Developed a video diffusion–based refinement framework that restores dynamic driving scenes with high-fidelity detail and temporal coherence, mitigating artifacts in 3D Gaussian Splatting–based reconstructions.
+  - Integrated the framework into closed-loop driving simulations, enabling consistent rendering across multi-agent trajectories and improving long-horizon stability, scene realism, and downstream perception performance.
 
 - **Brain Signals2Video: Scene-Level Video Generation from Neural Activity**, *2025.08 - present*  
   [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/)  

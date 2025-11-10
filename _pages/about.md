@@ -55,6 +55,7 @@ My research interests include robotics,3D perception, controllable generation, a
   *Project Lead* | *Advisor: [Prof. Hao Zhao](https://sites.google.com/view/fromandto)*
   - Developed a video diffusion–based refinement framework that restores dynamic driving scenes with high-fidelity detail and temporal coherence, mitigating artifacts in 3D Gaussian Splatting–based reconstructions.
   - Integrated the framework into closed-loop driving simulations, enabling consistent rendering across multi-agent trajectories and improving long-horizon stability, scene realism, and downstream perception performance.
+  - CVPR 2026 
 
 - **Brain Signals2Video: Scene-Level Video Generation from Neural Activity**, *2025.08 - present*  
   [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/)  

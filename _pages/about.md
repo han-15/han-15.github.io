@@ -33,7 +33,7 @@ My research interests include robotics,3D perception, controllable generation, a
   **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia  
   *WACV 2026*
 - **OmniFix: Video Diffusion Fixer for dynamic driving scene Reconstructions**  
-  Gen Li\*, **S Han**\*·, Nan Wang, Bohan Li, Ziyang Yan, ChenHua, Tiecheng Sun, Hao Zhao  
+  **S Han**, Gen Li,  Nan Wang, Bohan Li, Ziyang Yan, ChenHua, Tiecheng Sun, Hao Zhao  
   *CVPR 2026, under review*
 - **[I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps](https://ieeexplore.ieee.org/abstract/document/11045122)**  
   H Yu, X Zhu, **S Han**, W Yang, G Xia  

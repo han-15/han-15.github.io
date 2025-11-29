@@ -29,7 +29,7 @@ My research interests include robotics,3D perception, controllable generation, a
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'>
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div>
@@ -45,11 +45,9 @@ My research interests include robotics,3D perception, controllable generation, a
 **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia
 - A novel targetless LiDAR-camera calibration framework that reformulates cross-modal calibration as probabilistic depth flow estimation.
   </div>
-</div> -->
+</div>
 
-- **[UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations](https://arxiv.org/abs/2504.01416)**  
-  **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia  
-  *WACV 2026*
+
 - **OmniFix: Video Diffusion Fixer for dynamic driving scene Reconstructions**  
   **S Han**, Gen Li,  Nan Wang, Bohan Li, Ziyang Yan, ChenHua, Tiecheng Sun, Hao Zhao  
   *CVPR 2026, under review*

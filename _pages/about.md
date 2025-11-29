@@ -46,7 +46,7 @@ My research interests include robotics,3D perception, controllable generation, a
 **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia
 
 - Reformulates cross-modal calibration as probabilistic depth flow estimation for targetless LiDAR–camera calibration.
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -65,7 +65,7 @@ OmniFix: Video Diffusion Fixer for Dynamic Driving Scene Reconstructions
 **S Han**, Gen Li, Nan Wang, Bohan Li, Ziyang Yan, Chen Hua, Tiecheng Sun, Hao Zhao
 
 - Video diffusion–based refinement that restores dynamic driving scenes for high-fidelity Gaussian Splatting reconstructions.
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -84,7 +84,7 @@ OmniFix: Video Diffusion Fixer for Dynamic Driving Scene Reconstructions
 H Yu, X Zhu, **S Han**, W Yang, G Xia
 
 - Three-branch cross-modal correspondence framework achieving 37 ms real-time camera localization within LiDAR maps.
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -103,7 +103,7 @@ SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Lo
 X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
 
 - Builds semantic Gaussian ellipsoid scene graphs to enable efficient and accurate LiDAR global localization.
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -122,7 +122,7 @@ X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
 J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
 
 - Uses semantic quadric primitives with degeneracy-aware matching for robust large-scale point cloud registration.
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -141,26 +141,9 @@ Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object
 S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao
 
 - Adapts video diffusion models to recover depth and normals of transparent objects for robotic perception.
-  </div>
+</div>
 </div>
 
-
-<!-- 
-- **OmniFix: Video Diffusion Fixer for dynamic driving scene Reconstructions**  
-  **S Han**, Gen Li,  Nan Wang, Bohan Li, Ziyang Yan, ChenHua, Tiecheng Sun, Hao Zhao  
-  *CVPR 2026, under review*
-- **[I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps](https://ieeexplore.ieee.org/abstract/document/11045122)**  
-  H Yu, X Zhu, **S Han**, W Yang, G Xia  
-  *RA-L 2025*
-- **SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization**  
-  X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia  
-  *RA-L 2025*
-- **[QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives](https://levenberg.github.io/QuadricsReg/)**  
-  J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia  
-  *T-RO under review*
-- **Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation**  
-  S Xu, S Wei, Q Wei, Z Geng, HLi, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao  
-  *ICRA 2026 under review* -->
 
 # 🔬 Research Experience
 
@@ -233,15 +216,5 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
 

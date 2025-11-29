@@ -38,13 +38,13 @@ My research interests include robotics,3D perception, controllable generation, a
       </div>
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
 
 [UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations](https://arxiv.org/abs/2504.01416)
 
 **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia
 - A novel targetless LiDAR-camera calibration framework that reformulates cross-modal calibration as probabilistic depth flow estimation.
-  </div>
+</div>
 </div>
 
 

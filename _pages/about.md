@@ -29,25 +29,123 @@ My research interests include robotics,3D perception, controllable generation, a
 
 # 📝 Publications 
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div>
         <div class="badge">WACV 2026</div>
-        <img src='images/unicalib.png' alt="sym" width="100%">
+        <img src='images/unicalib.png' alt="UniCalib teaser" width="100%">
       </div>
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1">
 
 [UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations](https://arxiv.org/abs/2504.01416)
 
 **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia
-- A novel targetless LiDAR-camera calibration framework that reformulates cross-modal calibration as probabilistic depth flow estimation.
+
+- Reformulates cross-modal calibration as probabilistic depth flow estimation for targetless LiDAR–camera calibration.
+  </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div>
+        <div class="badge">CVPR 2026 (Under Review)</div>
+        <img src='images/omnifix.png' alt="OmniFix teaser" width="100%">
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+OmniFix: Video Diffusion Fixer for Dynamic Driving Scene Reconstructions
+
+**S Han**, Gen Li, Nan Wang, Bohan Li, Ziyang Yan, Chen Hua, Tiecheng Sun, Hao Zhao
+
+- Video diffusion–based refinement that restores dynamic driving scenes for high-fidelity Gaussian Splatting reconstructions.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div>
+        <div class="badge">RA-L 2025</div>
+        <img src='images/i2d-locx.png' alt="I2D-LoCX teaser" width="100%">
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps](https://ieeexplore.ieee.org/abstract/document/11045122)
+
+H Yu, X Zhu, **S Han**, W Yang, G Xia
+
+- Three-branch cross-modal correspondence framework achieving 37 ms real-time camera localization within LiDAR maps.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div>
+        <div class="badge">RA-L 2025</div>
+        <img src='images/sge-gloc.png' alt="SGE-GLoc teaser" width="100%">
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization
+
+X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
+
+- Builds semantic Gaussian ellipsoid scene graphs to enable efficient and accurate LiDAR global localization.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div>
+        <div class="badge">T-RO (Under Review)</div>
+        <img src='images/quadricsreg.png' alt="QuadricsReg teaser" width="100%">
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives](https://levenberg.github.io/QuadricsReg/)
+
+J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
+
+- Uses semantic quadric primitives with degeneracy-aware matching for robust large-scale point cloud registration.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div>
+        <div class="badge">ICRA 2026 (Under Review)</div>
+        <img src='images/dkt.png' alt="Diffusion Transparency teaser" width="100%">
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation
+
+S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao
+
+- Adapts video diffusion models to recover depth and normals of transparent objects for robotic perception.
+  </div>
 </div>
 
 
+<!-- 
 - **OmniFix: Video Diffusion Fixer for dynamic driving scene Reconstructions**  
   **S Han**, Gen Li,  Nan Wang, Bohan Li, Ziyang Yan, ChenHua, Tiecheng Sun, Hao Zhao  
   *CVPR 2026, under review*
@@ -62,7 +160,7 @@ My research interests include robotics,3D perception, controllable generation, a
   *T-RO under review*
 - **Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation**  
   S Xu, S Wei, Q Wei, Z Geng, HLi, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao  
-  *ICRA 2026 under review*
+  *ICRA 2026 under review* -->
 
 # 🔬 Research Experience
 

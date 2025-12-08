@@ -194,10 +194,15 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
 
 
 # 🎖 Honors and Awards
-- *2025* **National Scholarship**: Top 0.2% nationwide
-- *2025* **Outstanding Social Engagement Award**: Top 5% college-wide 
-- *2024* **Luojia Undergraduate Research Fund**: Top 0.2% university-wide 
-- *2023* **Second-class Scholarship**: Top 10% college-wide 
+- *2025*
+  - **National Scholarship** — Top 0.2% nationwide
+  - **Merit Student Award** — Top 5% university-wide
+  - **Outstanding Social Engagement Award** — Top 5% college-wide
+- *2024*
+  - **Luojia Undergraduate Research Fund** — Top 0.2% university-wide
+  - **Outstanding Student Award** — Top 10% university-wide
+- *2023*
+  - **Outstanding Student Award** — Top 10% university-wide
 
 <span class='anchor' id='-skills'></span>
 # 🛠️ Skills

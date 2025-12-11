@@ -45,8 +45,9 @@ My research interests include robotics,3D perception, controllable generation, a
 
 **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia
 
-Reformulates cross-modal calibration as probabilistic depth flow estimation for targetless LiDAR–camera calibration.
 [Paper](https://arxiv.org/abs/2504.01416) ｜ [Code](https://github.com/han-15/UniCalib)
+
+Reformulates cross-modal calibration as probabilistic depth flow estimation for targetless LiDAR–camera calibration.
 </div>
 </div>
 
@@ -84,8 +85,9 @@ Video diffusion–based refinement that restores dynamic driving scenes for high
 
 H Yu, X Zhu, **S Han**, W Yang, G Xia
 
-Three-branch cross-modal correspondence framework achieving 37 ms real-time camera localization within LiDAR maps.
 [Paper](https://ieeexplore.ieee.org/abstract/document/11045122)
+
+Three-branch cross-modal correspondence framework achieving 37 ms real-time camera localization within LiDAR maps.
 </div>
 </div>
 
@@ -123,8 +125,10 @@ Builds semantic Gaussian ellipsoid scene graphs to enable efficient and accurate
 
 J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
 
-Uses semantic quadric primitives with degeneracy-aware matching for robust large-scale point cloud registration.
 [Project](https://levenberg.github.io/QuadricsReg/)
+
+Uses semantic quadric primitives with degeneracy-aware matching for robust large-scale point cloud registration.
+
 </div>
 </div>
 

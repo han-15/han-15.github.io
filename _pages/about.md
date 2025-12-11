@@ -47,6 +47,7 @@ UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified 
 
 - Reformulates cross-modal calibration as probabilistic depth flow estimation for targetless LiDAR–camera calibration.
 - [Paper](https://arxiv.org/abs/2504.01416)  
+- [Code](https://github.com/han-15/UniCalib)
 </div>
 </div>
 

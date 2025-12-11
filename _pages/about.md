@@ -41,11 +41,12 @@ My research interests include robotics,3D perception, controllable generation, a
   </div>
   <div class='paper-box-text' markdown="1">
 
-[UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations](https://arxiv.org/abs/2504.01416)
+UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations
 
 **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia
 
 - Reformulates cross-modal calibration as probabilistic depth flow estimation for targetless LiDAR–camera calibration.
+- [Paper](https://arxiv.org/abs/2504.01416)  
 </div>
 </div>
 
@@ -79,11 +80,12 @@ OmniFix: Video Diffusion Fixer for Dynamic Driving Scene Reconstructions
   </div>
   <div class='paper-box-text' markdown="1">
 
-[I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps](https://ieeexplore.ieee.org/abstract/document/11045122)
+I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps
 
 H Yu, X Zhu, **S Han**, W Yang, G Xia
 
 - Three-branch cross-modal correspondence framework achieving 37 ms real-time camera localization within LiDAR maps.
+- [Paper](https://ieeexplore.ieee.org/abstract/document/11045122)
 </div>
 </div>
 
@@ -117,11 +119,12 @@ X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
   </div>
   <div class='paper-box-text' markdown="1">
 
-[QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives](https://levenberg.github.io/QuadricsReg/)
+QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives
 
 J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
 
 - Uses semantic quadric primitives with degeneracy-aware matching for robust large-scale point cloud registration.
+- [Project](https://levenberg.github.io/QuadricsReg/)
 </div>
 </div>
 

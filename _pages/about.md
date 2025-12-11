@@ -41,13 +41,12 @@ My research interests include robotics,3D perception, controllable generation, a
   </div>
   <div class='paper-box-text' markdown="1">
 
-UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations
+**UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations**
 
 **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia
 
 - Reformulates cross-modal calibration as probabilistic depth flow estimation for targetless LiDAR–camera calibration.
-- [Paper](https://arxiv.org/abs/2504.01416)  
-- [Code](https://github.com/han-15/UniCalib)
+- [Paper](https://arxiv.org/abs/2504.01416) ｜ [Code](https://github.com/han-15/UniCalib)
 </div>
 </div>
 
@@ -62,7 +61,7 @@ UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified 
   </div>
   <div class='paper-box-text' markdown="1">
 
-OmniFix: Video Diffusion Fixer for Dynamic Driving Scene Reconstructions
+**OmniFix: Video Diffusion Fixer for Dynamic Driving Scene Reconstructions**
 
 **S Han**, Gen Li, Nan Wang, Bohan Li, Ziyang Yan, Chen Hua, Tiecheng Sun, Hao Zhao
 
@@ -81,7 +80,7 @@ OmniFix: Video Diffusion Fixer for Dynamic Driving Scene Reconstructions
   </div>
   <div class='paper-box-text' markdown="1">
 
-I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps
+**I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps**
 
 H Yu, X Zhu, **S Han**, W Yang, G Xia
 
@@ -101,7 +100,7 @@ H Yu, X Zhu, **S Han**, W Yang, G Xia
   </div>
   <div class='paper-box-text' markdown="1">
 
-SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization
+**SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization**
 
 X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
 
@@ -120,7 +119,7 @@ X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
   </div>
   <div class='paper-box-text' markdown="1">
 
-QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives
+**QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives**
 
 J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
 
@@ -140,7 +139,7 @@ J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
   </div>
   <div class='paper-box-text' markdown="1">
 
-Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation
+**Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation**
 
 S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao
 

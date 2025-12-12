@@ -106,6 +106,8 @@ H Yu, X Zhu, **S Han**, W Yang, G Xia
 
 X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
 
+[Paper](https://ieeexplore.ieee.org/document/11297823)
+
 *Builds semantic Gaussian ellipsoid scene graphs to enable efficient and accurate LiDAR global localization.*
 </div>
 </div>

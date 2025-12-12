@@ -127,7 +127,7 @@ X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
 
 J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
 
-[Paper](https://arxiv.org/abs/2412.02998) | [Project](https://levenberg.github.io/QuadricsReg/)
+[Paper](https://arxiv.org/abs/2412.02998) ｜ [Project](https://levenberg.github.io/QuadricsReg/)
 
 *Uses semantic quadric primitives with degeneracy-aware matching for robust large-scale point cloud registration.*
 

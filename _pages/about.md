@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an undergraduate student at the School of Computer Science, Wuhan University, with a GPA of **3.95/4.0 (1/230)**. 
+I am an undergraduate student at the School of Computer Science, Wuhan University, with a GPA of **3.95/4.00 (1/230)**. 
 
 My research interests include **robotics**, **3D perception**, **controllable generation**, **autonomous driving simulation**, **AI4Neuroscience**, and **embodied AI**.  
 

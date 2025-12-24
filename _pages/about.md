@@ -163,7 +163,7 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
       <li><em>2025.07 - Present</em>, <strong>Research Intern</strong>
         <ul>
           <li>Advisor: <a href="https://sites.google.com/view/fromandto">Prof. Hao Zhao</a> | <a href="https://air.tsinghua.edu.cn/en/index.htm">Institute for AI Industry Research (AIR), Tsinghua University</a></li>
-          <li>One paper submitted to CVPR’26, one paper accepted by ICRA’26.</li>
+          <li>One paper submitted to CVPR’26, one paper submitted to ICRA’26.</li>
         </ul>
       </li>
     </ul>

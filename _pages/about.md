@@ -178,7 +178,7 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
     <ul>
       <li><em>2023.07 - 2025.07</em>, <strong>Research Assistant</strong>
         <ul>
-          <li>Advisor: <a href="http://www.captain-whu.com/en/person/xiaguisong.html">Prof. Gui-Song Xia</a> | <a href="http://www.captain-whu.com/en/">CAPTAIN Lab, Wuhan University</a></li>
+          <li>Advisor: <a href="http://www.captain-whu.com/en/person/xiaguisong.html">Prof. Gui-Song Xia</a>, <a href="https://levenberg.github.io/">Prof. Huai Yu</a> | <a href="http://www.captain-whu.com/en/">CAPTAIN Lab, Wuhan University</a></li>
           <li>Two papers accepted by RA-L’25.</li>
         </ul>
       </li>

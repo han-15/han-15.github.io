@@ -192,8 +192,7 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
   - *Fall 2024*, **Teaching Assistant**
-    - *Introduction to Computer Science*
-    - Instructor: [Prof. Zhiwei Xu](https://novel.ict.ac.cn/zxu/), [Prof. Jialin Zhang](http://www.ict.ac.cn/sourcedb/cn/jssrck/201209/t20120913_3643855.html)
+    - *Computer Organization and Design*
     - Held weekly office hours, graded assignments, and assisted in designing course materials.
   </div>
   <div class='exp-box-image'>

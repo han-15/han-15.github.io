@@ -173,6 +173,21 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
   </div>
 </div>
 
+<div class="exp-box">
+  <div class="exp-box-text">
+    <ul>
+      <li><em>2023.07 - 2025.07</em>, <strong>Research Assistant</strong>
+        <ul>
+          <li>Advisor: <a href="http://www.captain-whu.com/en/person/xiaguisong.html">Prof. Gui-Song Xia</a> | <a href="http://www.captain-whu.com/en/">CAPTAIN Lab, Wuhan University</a></li>
+          <li>Two papers accepted by RA-L’25.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="exp-box-image">
+    <div><img src="images/captain.png" alt="sym" width="80%"></div>
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025*

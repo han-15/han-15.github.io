@@ -200,6 +200,17 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
   </div>
 </div>
 
+<div class='exp-box'>
+  <div class='exp-box-text' markdown="1">
+  - *Spring 2024*, **Teaching Assistant**
+    - *Digital Logic and Digital Circuits*
+    - Held weekly office hours, graded assignments, and assisted in designing course materials.
+  </div>
+  <div class='exp-box-image'>
+    <div><img src='images/whu.png' alt="sym" width="80%"></div>
+  </div>
+</div>
+
 # 🎖 Honors and Awards
 - *2025*
   - **National Scholarship** — Top 0.2% nationwide

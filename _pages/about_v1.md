@@ -154,7 +154,7 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
 </div>
 
 
-<!-- # 🔬 Research Experience
+# 🔬 Research Experience
 
 - **Unified Video Restoration for Autonomous Driving Simulation**, *2025.07 - present*  
   [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/)  
@@ -196,7 +196,7 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
   - Developed micro UAV swarm system achieving autonomous exploration and 3D mapping in GNSS-denied environments with limited communication, demonstrating robust performance under challenging conditions.
   - Employed distributed swarm coordination and task allocation algorithms enabling efficient collaboration under asynchronous unreliable communication protocols.
   - Luojia Undergraduate Research Innovation Fund—Excellent Award, **1st** in Engineering (university-wide) [📎](https://news.whu.edu.cn/info/1015/470117.htm) [📎](https://uc.whu.edu.cn/2022/show.jsp?urltype=news.NewsContentUrl&wbtreeid=1517&wbnewsid=122531)
- -->
+
 
 # 💻 Internships
 - *2025.07 - present*, [Institute for AI Industry Research, Tsinghua University](https://air.tsinghua.edu.cn/en/), Research Intern.

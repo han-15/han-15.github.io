@@ -192,7 +192,7 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
   - *Fall 2024*, **Teaching Assistant**
-    - *Computer Organization and Design*
+    - *Computer Organization and Design* | <a herf="https://en.whu.edu.cn/">Wuhan University</a>
     - Held weekly office hours, graded assignments, and assisted in designing course materials.
   </div>
   <div class='exp-box-image'>
@@ -202,8 +202,8 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
 
 <div class='exp-box'>
   <div class='exp-box-text' markdown="1">
-  - *Spring 2024*, **Teaching Assistant**
-    - *Digital Logic and Digital Circuits*
+  - *Spring 2024*, **Teaching Assistant** 
+    - *Digital Logic and Digital Circuits*  | <a herf="https://en.whu.edu.cn/">Wuhan University</a>
     - Held weekly office hours, graded assignments, and assisted in designing course materials.
   </div>
   <div class='exp-box-image'>

@@ -189,25 +189,35 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
   </div>
 </div>
 
-<div class='exp-box'>
-  <div class='exp-box-text' markdown="1">
-  - *Fall 2024*, **Teaching Assistant**
-    - *Computer Organization and Design* | <a herf="https://en.whu.edu.cn/">Wuhan University</a>
-    - Held weekly office hours, graded assignments, and assisted in designing course materials.
+<div class="exp-box">
+  <div class="exp-box-text">
+    <ul>
+      <li><em>Fall 2024</em>, <strong>Teaching Assistant</strong>
+        <ul>
+          <li><em>Computer Organization and Design</em> | <a href="https://en.whu.edu.cn/">Wuhan University</a></li>
+          <li>Held weekly office hours, graded assignments, and assisted in designing course materials.</li>
+        </ul>
+      </li>
+    </ul>
   </div>
-  <div class='exp-box-image'>
-    <div><img src='images/whu.png' alt="sym" width="80%"></div>
+  <div class="exp-box-image">
+    <div><img src="images/whu.png" alt="sym" width="80%"></div>
   </div>
 </div>
 
-<div class='exp-box'>
-  <div class='exp-box-text' markdown="1">
-  - *Spring 2024*, **Teaching Assistant** 
-    - *Digital Logic and Digital Circuits*  | <a herf="https://en.whu.edu.cn/">Wuhan University</a>
-    - Held weekly office hours, graded assignments, and assisted in designing course materials.
+<div class="exp-box">
+  <div class="exp-box-text">
+    <ul>
+      <li><em>Spring 2024</em>, <strong>Teaching Assistant</strong>
+        <ul>
+          <li><em>Digital Logic and Digital Circuits</em> | <a href="https://en.whu.edu.cn/">Wuhan University</a></li>
+          <li>Held weekly office hours, graded assignments, and assisted in designing course materials.</li>
+        </ul>
+      </li>
+    </ul>
   </div>
-  <div class='exp-box-image'>
-    <div><img src='images/whu.png' alt="sym" width="80%"></div>
+  <div class="exp-box-image">
+    <div><img src="images/whu.png" alt="sym" width="80%"></div>
   </div>
 </div>
 

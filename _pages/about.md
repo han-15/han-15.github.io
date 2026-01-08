@@ -149,6 +149,8 @@ J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
 
 S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao
 
+[Paper](https://arxiv.org/abs/2512.23705) | [Project](https://diffusion-transparency.github.io/)
+
 *Adapts video diffusion models to recover depth and normals of transparent objects for robotic perception.* 
 </div>
 </div>

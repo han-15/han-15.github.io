@@ -45,7 +45,7 @@ My research interests include **robotics**, **3D perception**, **controllable ge
 
 **S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia
 
-[Paper](https://arxiv.org/abs/2504.01416) ｜ [Code](https://github.com/han-15/UniCalib)
+[Paper](https://arxiv.org/abs/2504.01416) 
 
 *Reformulates cross-modal calibration as probabilistic depth flow estimation for targetless LiDAR–camera calibration.*
 </div>

@@ -20,7 +20,7 @@ redirect_from:
 
 I am an undergraduate student at the School of Computer Science, Wuhan University, with a GPA of **3.95/4.00 (1/230)**. 
 
-My research interests include **robotics**, **3D perception**, **controllable generation**, **autonomous driving simulation**, **AI4Neuroscience**, and **embodied AI**.  
+My research interests include **controllable generation**, **3D perception**, **robotics**, **autonomous driving simulation** and **AI4Neuroscience**.  
 
 # 📖 Educations
 - *2022.09 - 2026.06*, Wuhan University, Software Engineering, Bachelor's degree.

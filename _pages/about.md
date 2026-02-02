@@ -138,7 +138,7 @@ J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
   <div class='paper-box-image'>
     <div>
       <div>
-        <div class="badge">ICRA 2026 (Under Review)</div>
+        <div class="badge">ICRA 2026</div>
         <img src='images/dkt.png' alt="Diffusion Transparency teaser" width="100%">
       </div>
     </div>

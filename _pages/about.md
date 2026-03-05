@@ -62,11 +62,13 @@ My research interests include **Generative Models**,  **Robotics**, **Autonomous
   </div>
   <div class='paper-box-text' markdown="1">
 
-**OmniFix: Video Diffusion Fixer for Dynamic Driving Scene Reconstructions**
+**FoundationFix: A Foundation Model for High-Fidelity Driving Scene Refinement**
 
 **S Han**, Gen Li, Nan Wang, Bohan Li, Ziyang Yan, Chen Hua, Tiecheng Sun, Hao Zhao
 
-*Video diffusion–based refinement that restores dynamic driving scenes for high-fidelity Gaussian Splatting reconstructions.*
+
+*A unified foundation model for driving simulation artifact correction, handling novel viewpoints, dynamic insertions, and RGB/LiDAR inputs in a one framework.*
+
 </div>
 </div>
 

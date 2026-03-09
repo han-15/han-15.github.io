@@ -62,7 +62,7 @@ My research interests include **Generative Models**,  **Robotics**, **Autonomous
   </div>
   <div class='paper-box-text' markdown="1">
 
-**FoundationFix: A Foundation Model for High-Fidelity Driving Scene Refinement**
+**FoundationFix: One Model to Fix Vehicles, Scenes, and LiDAR Across Driving Scenes**
 
 **S Han**, Gen Li, Nan Wang, Bohan Li, Ziyang Yan, Chen Hua, Tiecheng Sun, Hao Zhao
 

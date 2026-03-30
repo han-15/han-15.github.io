@@ -60,7 +60,7 @@
         }
         img {
             width: 100%;
-            max-width: 400px;
+            max-width: 280px;
             aspect-ratio: 2 / 1;
             object-fit: cover;
             display: block;
@@ -81,15 +81,15 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 160px;
+            max-width: 32%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 60%;
+            max-width: 68%;
             order: 2;
         }
 

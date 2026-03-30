@@ -177,31 +177,34 @@ h1:before, .anchor:before {
 }
 
 // Keep education logo on the left and avoid wrapping.
-.edu-box-left-logo {
+.edu-box {
+    display: flex;
+    align-items: center;
+    justify-content: left;
     flex-wrap: nowrap;
+    border-bottom: 1px #efefef solid;
+    padding: 5px 0 5px 0;
 
-    .exp-box-image{
+    .edu-box-image{
         justify-content: center;
+        display: flex;
         width: 18%;
         min-width: 90px;
         max-width: 120px;
-        order: 1;
+        flex-shrink: 0;
     }
 
-    .exp-box-text{
-        order: 2;
+    .edu-box-text{
         min-width: 0;
         max-width: 82%;
         padding-left: 1em;
     }
 
     @include breakpoint($medium) {
-        .exp-box-image{
+        .edu-box-image{
             width: 15%;
-            order: 1;
         }
-        .exp-box-text{
-            order: 2;
+        .edu-box-text{
             max-width: 85%;
         }
     }

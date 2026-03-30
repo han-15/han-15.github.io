@@ -175,3 +175,16 @@ h1:before, .anchor:before {
         }
     }
 }
+
+// Keep education logo on the left for larger screens.
+.edu-box {
+    @include breakpoint($medium) {
+        .exp-box-image{
+            justify-content: center;
+            order: 1;
+        }
+        .exp-box-text{
+            order: 2;
+        }
+    }
+}

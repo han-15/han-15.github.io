@@ -23,11 +23,11 @@ I am an undergraduate student at the School of Computer Science, Wuhan Universit
 My research interests include **Generative Models**,  **Robotics**, **Autonomous Driving**, **3D Perception**, and **AI4Neuroscience**.  
 
 # 📖 Educations
-<div class="exp-box">
-  <div class="exp-box-image">
+<div class="edu-box">
+  <div class="edu-box-image">
     <div><img src="images/whu.png" alt="Wuhan University" width="80%"></div>
   </div>
-  <div class="exp-box-text">
+  <div class="edu-box-text">
     <ul>
       <li><em>2022.09 - 2026.06</em>, <strong>Wuhan University</strong>
         <ul>

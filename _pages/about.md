@@ -29,9 +29,9 @@ My research interests include **Generative Models**,  **Robotics**, **Autonomous
   </div>
   <div class="edu-box-text">
     <ul>
-      <li><em>2026.09 - Incoming</em>, <strong>University of Wisconsin-Madison</strong>
+      <li><em>Fall 2026 (incoming)</em>, <strong>University of Wisconsin-Madison</strong>
         <ul>
-          <li>Electrical and Computer Engineering, Ph.D. (Incoming).</li>
+          <li>Electrical and Computer Engineering, Ph.D.</li>
         </ul>
       </li>
     </ul>

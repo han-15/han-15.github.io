@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Wisconsin-Madison, advised by [Prof. Xiaopeng Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). I am currently a final-year undergraduate student at the School of Computer Science, Wuhan University, advised by [Prof. Gui-Song Xia](http://www.captain-whu.com/en/person/xiaguisong.html) and [Prof. Huai Yu](https://levenberg.github.io/).
+I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Wisconsin-Madison, advised by [Prof. Xiaopeng Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). Meanwhile, I am currently a final-year undergraduate student at the School of Computer Science, Wuhan University, advised by [Prof. Gui-Song Xia](http://www.captain-whu.com/en/person/xiaguisong.html) and [Prof. Huai Yu](https://levenberg.github.io/).
 
 My research interests include **Generative Models**,  **Robotics**, **Autonomous Driving** and **3D Perception**.  
 
@@ -93,8 +93,6 @@ My research interests include **Generative Models**,  **Robotics**, **Autonomous
 **FoundationFix: One Model to Fix Vehicles, Scenes, and LiDAR Across Driving Scenes**
 
 **S Han**, Gen Li, Nan Wang, Bohan Li, Ziyang Yan, Chen Hua, Tiecheng Sun, Hao Zhao
-
-
 
 </div>
 </div>

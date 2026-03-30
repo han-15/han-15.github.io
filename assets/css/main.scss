@@ -188,10 +188,12 @@ h1:before, .anchor:before {
     .edu-box-image{
         justify-content: center;
         display: flex;
-        width: 18%;
-        min-width: 90px;
-        max-width: 120px;
+        width: 40%;
         flex-shrink: 0;
+        img {
+            max-width: 400px;
+            object-fit: cover;
+        }
     }
 
     .edu-box-text{
@@ -202,7 +204,9 @@ h1:before, .anchor:before {
 
     @include breakpoint($medium) {
         .edu-box-image{
-            width: 15%;
+            justify-content: right;
+            min-width: 15%;
+            max-width: 15%;
         }
         .edu-box-text{
             max-width: 85%;

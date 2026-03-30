@@ -76,7 +76,6 @@ My research interests include **Generative Models**,  **Robotics**, **Autonomous
 
 [Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Han_UniCalib_Targetless_LiDAR-camera_Calibration_via_Probabilistic_Flow_on_Unified_Depth_WACV_2026_paper.pdf)  ｜ [Code](https://github.com/han-15/UniCalib)
 
-*Reformulates cross-modal calibration as probabilistic depth flow estimation for targetless LiDAR–camera calibration.*
 </div>
 </div>
 
@@ -96,7 +95,6 @@ My research interests include **Generative Models**,  **Robotics**, **Autonomous
 **S Han**, Gen Li, Nan Wang, Bohan Li, Ziyang Yan, Chen Hua, Tiecheng Sun, Hao Zhao
 
 
-*A unified foundation model for driving simulation artifact correction, handling novel viewpoints, dynamic insertions, and RGB/LiDAR inputs in a one framework.*
 
 </div>
 </div>
@@ -118,7 +116,6 @@ H Yu, X Zhu, **S Han**, W Yang, G Xia
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/11045122)
 
-*Three-branch cross-modal correspondence framework achieving 37 ms real-time camera localization within LiDAR maps.*
 </div>
 </div>
 
@@ -139,7 +136,6 @@ X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
 
 [Paper](https://ieeexplore.ieee.org/document/11297823)
 
-*Builds semantic Gaussian ellipsoid scene graphs to enable efficient and accurate LiDAR global localization.*
 </div>
 </div>
 
@@ -160,7 +156,6 @@ J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
 
 [Paper](https://arxiv.org/abs/2412.02998) ｜ [Project](https://levenberg.github.io/QuadricsReg/)
 
-*Uses semantic quadric primitives with degeneracy-aware matching for robust large-scale point cloud registration.*
 
 </div>
 </div>
@@ -182,7 +177,6 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
 
 [Paper](https://arxiv.org/abs/2512.23705) ｜ [Project](https://daniellli.github.io/projects/DKT/)
 
-*Adapts video diffusion models to recover depth and normals of transparent objects for robotic perception.* 
 </div>
 </div>
 
@@ -196,7 +190,7 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
       <li><em>2025.07 - Present</em>, <strong>Research Intern</strong>
         <ul>
           <li>Advisor: <a href="https://sites.google.com/view/fromandto">Prof. Hao Zhao</a> | <a href="https://air.tsinghua.edu.cn/en/index.htm">Institute for AI Industry Research (AIR), Tsinghua University</a></li>
-          <li>One paper submitted to CVPR’26, one paper submitted to ICRA’26.</li>
+          <li>One paper submitted to ECCV’26, one paper accepted to ICRA’26.</li>
         </ul>
       </li>
     </ul>

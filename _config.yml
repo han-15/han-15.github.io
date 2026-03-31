@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Shu Han"
-description              : "Undergraduate student at WHU"
-# description              : "Incoming Ph.D. student at UW-Madison, undergraduate at WHU"
+description              : "Incoming Ph.D. student at UW-Madison, undergraduate at WHU"
 repository               : "han-15/han-15.github.io"
 google_scholar_stats_use_cdn : false
 

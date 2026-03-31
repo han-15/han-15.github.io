@@ -18,13 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-<!-- I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Wisconsin-Madison, advised by [Prof. Xiaopeng Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). Meanwhile,  -->
-I am currently a final-year undergraduate student at the School of Computer Science, Wuhan University, advised by [Prof. Gui-Song Xia](http://www.captain-whu.com/en/person/xiaguisong.html) and [Prof. Huai Yu](https://levenberg.github.io/).
+I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Wisconsin-Madison, advised by [Prof. Xiaopeng Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). Meanwhile, I am a final-year undergraduate student at the School of Computer Science, Wuhan University, advised by [Prof. Gui-Song Xia](http://www.captain-whu.com/en/person/xiaguisong.html) and [Prof. Huai Yu](https://levenberg.github.io/).
 
 My research interests include **Generative Models**,  **Robotics**, **Autonomous Driving** and **3D Perception**.  
 
 # 📖 Educations
-<!-- <div class="edu-box">
+<div class="edu-box">
   <div class="edu-box-image">
     <div><img src="images/uw.svg" alt="UW-Madison" width="80%"></div>
   </div>
@@ -37,7 +36,7 @@ My research interests include **Generative Models**,  **Robotics**, **Autonomous
       </li>
     </ul>
   </div>
-</div> -->
+</div>
 
 <div class="edu-box">
   <div class="edu-box-image">

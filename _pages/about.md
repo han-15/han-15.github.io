@@ -56,7 +56,7 @@ My research interests include **Generative Models**,  **Robotics**, **Autonomous
 
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 
 <div class='paper-box'>

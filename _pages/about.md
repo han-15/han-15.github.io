@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Wisconsin-Madison, advised by [Prof. Xiaopeng Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). Meanwhile, I am a final-year undergraduate student at the School of Computer Science, Wuhan University, advised by [Prof. Gui-Song Xia](http://www.captain-whu.com/en/person/xiaguisong.html) and [Prof. Huai Yu](https://levenberg.github.io/). I am currently a research intern at the [Institute for AI Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/index.htm), advised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto).
+I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Wisconsin-Madison, advised by [Prof. Xiaopeng Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). Meanwhile, I am a final-year undergraduate student at the School of Computer Science, Wuhan University, advised by [Prof. Gui-Song Xia](http://www.captain-whu.com/en/person/xiaguisong.html) and [Prof. Huai Yu](https://levenberg.github.io/). I am currently a research intern at the [AIR, Tsinghua University](https://air.tsinghua.edu.cn/en/index.htm), advised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto).
 
 My research interests include **Generative Models**,  **Robotics**, **Autonomous Driving** and **3D Perception**.  
 

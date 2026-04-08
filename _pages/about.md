@@ -158,7 +158,7 @@ J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
 </div>
 </div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div>
@@ -175,7 +175,7 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
 
 [Paper](https://arxiv.org/abs/2512.23705) ｜ [Project](https://daniellli.github.io/projects/DKT/)
 
-</div>
+</div> -->
 </div>
 
 

@@ -101,6 +101,27 @@ My research interests include **Generative Models**,  **Robotics**, **Autonomous
   <div class='paper-box-image'>
     <div>
       <div>
+        <div class="badge">T-RO 2026</div>
+        <img src='images/quadricsreg.png' alt="QuadricsReg teaser" width="100%">
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives**
+
+J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
+
+[Paper](https://arxiv.org/abs/2412.02998) ｜ [Project](https://levenberg.github.io/QuadricsReg/)
+
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div>
         <div class="badge">RA-L 2025</div>
         <img src='images/i2d-locx.png' alt="I2D-LoCX teaser" width="100%">
       </div>
@@ -137,26 +158,7 @@ X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
 </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div>
-        <div class="badge">T-RO 2026</div>
-        <img src='images/quadricsreg.png' alt="QuadricsReg teaser" width="100%">
-      </div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-**QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives**
-
-J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
-
-[Paper](https://arxiv.org/abs/2412.02998) ｜ [Project](https://levenberg.github.io/QuadricsReg/)
-
-
-</div>
-</div>
 
 <!-- <div class='paper-box'>
   <div class='paper-box-image'>

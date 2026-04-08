@@ -141,7 +141,7 @@ X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
   <div class='paper-box-image'>
     <div>
       <div>
-        <div class="badge">T-RO (Under Review)</div>
+        <div class="badge">T-RO 2026</div>
         <img src='images/quadricsreg.png' alt="QuadricsReg teaser" width="100%">
       </div>
     </div>

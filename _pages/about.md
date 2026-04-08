@@ -188,7 +188,6 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
       <li><em>2025.07 - Present</em>, <strong>Research Intern</strong>
         <ul>
           <li>Advisor: <a href="https://sites.google.com/view/fromandto">Prof. Hao Zhao</a> | <a href="https://air.tsinghua.edu.cn/en/index.htm">Institute for AI Industry Research (AIR), Tsinghua University</a></li>
-          <li>One paper submitted to ECCV’26, one paper accepted to ICRA’26.</li>
         </ul>
       </li>
     </ul>
@@ -204,7 +203,6 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
       <li><em>2023.07 - 2025.07</em>, <strong>Research Assistant</strong>
         <ul>
           <li>Advisor: <a href="http://www.captain-whu.com/en/person/xiaguisong.html">Prof. Gui-Song Xia</a>, <a href="https://levenberg.github.io/">Prof. Huai Yu</a> | <a href="http://www.captain-whu.com/en/">CAPTAIN Lab, Wuhan University</a></li>
-          <li>Two papers accepted by RA-L, one paper accepted by WACV’26, one paper submitted to T-RO.</li>
         </ul>
       </li>
     </ul>
@@ -220,7 +218,6 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
       <li><em>Fall 2024</em>, <strong>Teaching Assistant</strong>
         <ul>
           <li><em>Computer Organization and Design</em> | <a href="https://en.whu.edu.cn/">Wuhan University</a></li>
-          <li>Held weekly office hours, graded assignments, and assisted in designing course materials.</li>
         </ul>
       </li>
     </ul>
@@ -236,7 +233,6 @@ S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye,
       <li><em>Spring 2024</em>, <strong>Teaching Assistant</strong>
         <ul>
           <li><em>Digital Logic and Digital Circuits</em> | <a href="https://en.whu.edu.cn/">Wuhan University</a></li>
-          <li>Held weekly office hours, graded assignments, and assisted in designing course materials.</li>
         </ul>
       </li>
     </ul>

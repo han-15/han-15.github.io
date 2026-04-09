@@ -83,7 +83,7 @@ My research interests include **Generative Models**,  **Robotics**, **Autonomous
   <div class='paper-box-image'>
     <div>
       <div>
-        <div class="badge">ECCV 2026 (Under Review)</div>
+        <div class="badge">Under Review</div>
         <img src='images/omnifix.png' alt="OmniFix teaser" width="100%">
       </div>
     </div>

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shu Han"
-description              : "Incoming Ph.D. student at UW-Madison, undergraduate at WHU"
+description              : "Incoming Ph.D. student at UW-Madison, B.E. Software Engineering, School of Computer Science, WHU"
 repository               : "han-15/han-15.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -152,6 +152,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 

@@ -3,276 +3,224 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
+  - /new-home/
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-
-I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Wisconsin-Madison, advised by [Prof. Xiaopeng Li](https://engineering.wisc.edu/directory/profile/xiaopeng-li/). Meanwhile, I am a final-year undergraduate student in Software Engineering at the School of Computer Science, Wuhan University, advised by [Prof. Gui-Song Xia](http://www.captain-whu.com/en/person/xiaguisong.html) and [Prof. Huai Yu](https://levenberg.github.io/). I am currently a research intern at the [AIR, Tsinghua University](https://air.tsinghua.edu.cn/en/index.htm), advised by [Prof. Hao Zhao](https://sites.google.com/view/fromandto).
-
-My research interests include **Generative Models**,  **Robotics**, **Autonomous Driving** and **3D Perception**.  
-
-# 📖 Educations
-<div class="edu-box">
-  <div class="edu-box-image">
-    <div><img src="images/uw.svg" alt="UW-Madison" width="80%"></div>
+<section class="academic-home">
+  <div class="home-hero">
+    <span class="anchor" id="about-me"></span>
+    <p class="hero-tag">About</p>
+    <h1>Shu Han</h1>
+    <p class="hero-subtitle">
+      Incoming Ph.D. Student at UW-Madison · Final-year B.E. Student at Wuhan University
+    </p>
+    <div class="logo-strip">
+      <span class="logo-pill">
+        <img src="{{ '/images/uw.svg' | relative_url }}" alt="UW-Madison logo">
+      </span>
+      <span class="logo-pill">
+        <img src="{{ '/images/whu.png' | relative_url }}" alt="Wuhan University logo">
+      </span>
+      <span class="logo-pill">
+        <img src="{{ '/images/tsinghua.png' | relative_url }}" alt="Tsinghua University logo">
+      </span>
+    </div>
+    <p class="hero-bio">
+      I am an incoming Ph.D. student in Electrical and Computer Engineering at the University of Wisconsin-Madison,
+      advised by <a href="https://engineering.wisc.edu/directory/profile/xiaopeng-li/">Prof. Xiaopeng Li</a>.
+      I am currently finishing my B.E. in Software Engineering at the School of Computer Science, Wuhan University, advised by
+      <a href="http://www.captain-whu.com/en/person/xiaguisong.html">Prof. Gui-Song Xia</a> and
+      <a href="https://levenberg.github.io/">Prof. Huai Yu</a>.
+    </p>
+    <p class="hero-bio">
+      I am currently a research intern at <a href="https://air.tsinghua.edu.cn/en/index.htm">AIR</a>, Tsinghua University, advised by
+      <a href="https://sites.google.com/view/fromandto">Prof. Hao Zhao</a>.
+    </p>
   </div>
-  <div class="edu-box-text">
-    <ul>
-      <li><em>Fall 2026 (incoming)</em>, <strong>University of Wisconsin-Madison</strong>
-        <ul>
-          <li>Ph.D. in Electrical and Computer Engineering.</li>
-        </ul>
-      </li>
-    </ul>
+
+  <div class="highlight-grid">
+    <article class="highlight-card">
+      <h3>Research Interests</h3>
+      <p>My research interests include <strong>Generative Models</strong>, <strong>Robotics</strong>, <strong>Autonomous Driving</strong> and <strong>3D Perception</strong>.</p>
+    </article>
   </div>
-</div>
 
-<div class="edu-box">
-  <div class="edu-box-image">
-    <div><img src="images/whu.png" alt="Wuhan University" width="80%"></div>
-  </div>
-  <div class="edu-box-text">
-    <ul>
-      <li><em>2022.09 - 2026.06</em>, <strong>Wuhan University</strong>
-        <ul>
-          <li>B.E. in Software Engineering, School of Computer Science.</li>
-          <li>GPA: <strong>3.95/4.00 (1/230)</strong></li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-</div>
-
-
-
-# 📝 Selected Publications 
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div>
-        <div class="badge">WACV 2026</div>
-        <img src='images/unicalib.png' alt="UniCalib teaser" width="100%">
+  <span class="anchor" id="-educations"></span>
+  <h2>Education</h2>
+  <div class="timeline-list">
+    <div class="timeline-item">
+      <div class="timeline-time">Fall 2026 (Incoming)</div>
+      <div class="timeline-content inst-card">
+        <div class="inst-main">
+          <h4>University of Wisconsin-Madison</h4>
+          <p>Ph.D. in Electrical and Computer Engineering</p>
+        </div>
+        <div class="inst-logo-wrap">
+          <img class="inst-logo" src="{{ '/images/uw.svg' | relative_url }}" alt="UW-Madison logo">
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-time">2022.09 - 2026.06</div>
+      <div class="timeline-content inst-card">
+        <div class="inst-main">
+          <h4>Wuhan University</h4>
+          <p>B.E. in Software Engineering, School of Computer Science</p>
+          <p>GPA 3.95/4.00 (1/230)</p>
+        </div>
+        <div class="inst-logo-wrap">
+          <img class="inst-logo" src="{{ '/images/whu.png' | relative_url }}" alt="Wuhan University logo">
+        </div>
       </div>
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
 
-**UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations**
+  <span class="anchor" id="-publications"></span>
+  <h2>Selected Publications</h2>
+  <div class="pub-row-list">
+    <article class="pub-row">
+      <div class="pub-row-image">
+        <img src="{{ '/images/unicalib.png' | relative_url }}" alt="UniCalib teaser">
+      </div>
+      <div class="pub-row-text">
+        <div class="pub-top">
+          <span class="pub-venue">WACV 2026</span>
+          <h4>UniCalib: Targetless LiDAR-Camera Calibration via Probabilistic Flow on Unified Depth Representations</h4>
+        </div>
+        <p><strong>S Han</strong>, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia</p>
+        <p><a href="https://openaccess.thecvf.com/content/WACV2026/papers/Han_UniCalib_Targetless_LiDAR-camera_Calibration_via_Probabilistic_Flow_on_Unified_Depth_WACV_2026_paper.pdf">Paper</a> · <a href="https://github.com/han-15/UniCalib">Code</a></p>
+      </div>
+    </article>
+    <article class="pub-row">
+      <div class="pub-row-image">
+        <img src="{{ '/images/omnifix.png' | relative_url }}" alt="FoundationFix teaser">
+      </div>
+      <div class="pub-row-text">
+        <div class="pub-top">
+          <span class="pub-venue">Under Review</span>
+          <h4>FoundationFix: One Model to Fix Vehicles, Scenes, and LiDAR Across Driving Scenes</h4>
+        </div>
+        <p><strong>S Han</strong>, Gen Li, Nan Wang, Bohan Li, Ziyang Yan, Chen Hua, Tiecheng Sun, Hao Zhao</p>
+      </div>
+    </article>
+    <article class="pub-row">
+      <div class="pub-row-image">
+        <img src="{{ '/images/quadricsreg.png' | relative_url }}" alt="QuadricsReg teaser">
+      </div>
+      <div class="pub-row-text">
+        <div class="pub-top">
+          <span class="pub-venue">T-RO 2026</span>
+          <h4>QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives</h4>
+        </div>
+        <p>J Wu, H Yu, <strong>S Han</strong>, X Cai, M Wang, W Yang, G Xia</p>
+        <p><a href="https://arxiv.org/abs/2412.02998">Paper</a> · <a href="https://levenberg.github.io/QuadricsReg/">Project</a></p>
+      </div>
+    </article>
+    <article class="pub-row">
+      <div class="pub-row-image">
+        <img src="{{ '/images/i2d-locx.png' | relative_url }}" alt="I2D-LoCX teaser">
+      </div>
+      <div class="pub-row-text">
+        <div class="pub-top">
+          <span class="pub-venue">RA-L 2025</span>
+          <h4>I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps</h4>
+        </div>
+        <p>H Yu, X Zhu, <strong>S Han</strong>, W Yang, G Xia</p>
+        <p><a href="https://ieeexplore.ieee.org/abstract/document/11045122">Paper</a></p>
+      </div>
+    </article>
+    <article class="pub-row">
+      <div class="pub-row-image">
+        <img src="{{ '/images/sge-gloc.png' | relative_url }}" alt="SGE-GLoc teaser">
+      </div>
+      <div class="pub-row-text">
+        <div class="pub-top">
+          <span class="pub-venue">RA-L 2025</span>
+          <h4>SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization</h4>
+        </div>
+        <p>X Cai, J Wu, <strong>S Han</strong>, L Yu, W Yang, H Yu, G Xia</p>
+        <p><a href="https://ieeexplore.ieee.org/document/11297823">Paper</a></p>
+      </div>
+    </article>
+  </div>
 
-**S Han**, X Zhu, J Wu, X Cai, W Yang, H Yu, G Xia
-
-[Paper](https://openaccess.thecvf.com/content/WACV2026/papers/Han_UniCalib_Targetless_LiDAR-camera_Calibration_via_Probabilistic_Flow_on_Unified_Depth_WACV_2026_paper.pdf)  ｜ [Code](https://github.com/han-15/UniCalib)
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div>
-        <div class="badge">Under Review</div>
-        <img src='images/omnifix.png' alt="OmniFix teaser" width="100%">
+  <span class="anchor" id="-Experience"></span>
+  <h2>Experience</h2>
+  <div class="timeline-list">
+    <div class="timeline-item">
+      <div class="timeline-time">2025.07 - Present</div>
+      <div class="timeline-content inst-card">
+        <div class="inst-main">
+          <h4 class="inst-heading">
+            <span class="inst-heading-text">Research Intern · AIR, Tsinghua University</span>
+            <a class="inst-site-link" href="https://air.tsinghua.edu.cn/en/index.htm" target="_blank" rel="noopener noreferrer" aria-label="Institute for AI Industry Research (AIR), Tsinghua University—official website" title="AIR, Tsinghua University"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+          </h4>
+          <p>Advisor: <a href="https://sites.google.com/view/fromandto">Prof. Hao Zhao</a></p>
+        </div>
+        <div class="inst-logo-wrap">
+          <a class="inst-logo-link" href="https://air.tsinghua.edu.cn/en/index.htm" target="_blank" rel="noopener noreferrer" aria-label="AIR, Tsinghua University—official website" title="AIR, Tsinghua University">
+            <img class="inst-logo" src="{{ '/images/tsinghua.png' | relative_url }}" alt="Tsinghua University logo">
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-time">2023.07 - 2025.07</div>
+      <div class="timeline-content inst-card">
+        <div class="inst-main">
+          <h4 class="inst-heading">
+            <span class="inst-heading-text">Research Assistant · CAPTAIN Lab, Wuhan University</span>
+            <a class="inst-site-link" href="http://www.captain-whu.com/en/" target="_blank" rel="noopener noreferrer" aria-label="CAPTAIN Lab, Wuhan University—official website" title="CAPTAIN Lab"><i class="fas fa-external-link-alt" aria-hidden="true"></i></a>
+          </h4>
+          <p>Advisors: <a href="http://www.captain-whu.com/en/person/xiaguisong.html">Prof. Gui-Song Xia</a>, <a href="https://levenberg.github.io/">Prof. Huai Yu</a></p>
+        </div>
+        <div class="inst-logo-wrap">
+          <a class="inst-logo-link" href="http://www.captain-whu.com/en/" target="_blank" rel="noopener noreferrer" aria-label="CAPTAIN Lab, Wuhan University—official website" title="CAPTAIN Lab">
+            <img class="inst-logo" src="{{ '/images/captain.png' | relative_url }}" alt="CAPTAIN Lab logo">
+          </a>
+        </div>
       </div>
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
 
-**FoundationFix: One Model to Fix Vehicles, Scenes, and LiDAR Across Driving Scenes**
-
-**S Han**, Gen Li, Nan Wang, Bohan Li, Ziyang Yan, Chen Hua, Tiecheng Sun, Hao Zhao
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div>
-        <div class="badge">T-RO 2026</div>
-        <img src='images/quadricsreg.png' alt="QuadricsReg teaser" width="100%">
-      </div>
-    </div>
+  <span class="anchor" id="-honors-and-awards"></span>
+  <h2>Honors & Awards</h2>
+  <div class="honors-by-year">
+    <section class="honor-year-block">
+      <h3 class="honor-year">2025</h3>
+      <ul class="honor-items">
+        <li><strong>National Scholarship</strong> — Top 0.2% nationwide</li>
+        <li><strong>Merit Student Award</strong> — Top 5% university-wide</li>
+        <li><strong>Outstanding Social Engagement Award</strong> — Top 5% college-wide</li>
+      </ul>
+    </section>
+    <section class="honor-year-block">
+      <h3 class="honor-year">2024</h3>
+      <ul class="honor-items">
+        <li><strong>Luojia Undergraduate Research Fund</strong> — Top 0.2% university-wide</li>
+        <li><strong>Outstanding Student Award</strong> — Top 10% university-wide</li>
+      </ul>
+    </section>
+    <section class="honor-year-block">
+      <h3 class="honor-year">2023</h3>
+      <ul class="honor-items">
+        <li><strong>Outstanding Student Award</strong> — Top 10% university-wide</li>
+      </ul>
+    </section>
   </div>
-  <div class='paper-box-text' markdown="1">
 
-**QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives**
-
-J Wu, H Yu, **S Han**, X Cai, M Wang, W Yang, G Xia
-
-[Paper](https://arxiv.org/abs/2412.02998) ｜ [Project](https://levenberg.github.io/QuadricsReg/)
-
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div>
-        <div class="badge">RA-L 2025</div>
-        <img src='images/i2d-locx.png' alt="I2D-LoCX teaser" width="100%">
-      </div>
-    </div>
+  <span class="anchor" id="-skills"></span>
+  <h2>Skills</h2>
+  <div class="skills-cloud">
+    <span>Python</span><span>C/C++</span><span>Java</span><span>Shell</span>
+    <span>PyTorch</span><span>ROS/ROS2</span><span>Gazebo</span><span>Docker</span>
+    <span>Git</span><span>Linux</span><span>LaTeX</span>
   </div>
-  <div class='paper-box-text' markdown="1">
 
-**I2D-LoCX: An Efficient, Precise and Robust Method for Camera Localization in LiDAR Maps**
-
-H Yu, X Zhu, **S Han**, W Yang, G Xia
-
-[Paper](https://ieeexplore.ieee.org/abstract/document/11045122)
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div>
-        <div class="badge">RA-L 2025</div>
-        <img src='images/sge-gloc.png' alt="SGE-GLoc teaser" width="100%">
-      </div>
-    </div>
+  <div class="visitor-spacer">
+    <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=94a3b8&w=300&t=tt&d=zSEhmIfr3YpV77ZTwzKllyteVaCbfpPC20MieKREKPE&co=e6f7ff&ct=334155&cmo=38bdf8&cmn=22c55e"></script>
   </div>
-  <div class='paper-box-text' markdown="1">
-
-**SGE-GLoc: Semantic Gaussian Ellipsoid Scene Graphs for Efficient LiDAR Global Localization**
-
-X Cai, J Wu, **S Han**, L Yu, W Yang, H Yu, G Xia
-
-[Paper](https://ieeexplore.ieee.org/document/11297823)
-
-</div>
-</div>
-
-
-
-<!-- <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div>
-        <div class="badge">ICRA 2026</div>
-        <img src='images/dkt.png' alt="Diffusion Transparency teaser" width="100%">
-      </div>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation**
-
-S Xu, S Wei, Q Wei, Z Geng, H Li, S Licheng, Q Sun, **S Han**, B Ma, B Li, C Ye, Y Zheng, N Wang, S Zhang, H Zhao
-
-[Paper](https://arxiv.org/abs/2512.23705) ｜ [Project](https://daniellli.github.io/projects/DKT/)
-
-</div>
-</div> -->
-
-
-
-# 💻 Experience
-
-<div class="exp-box">
-  <div class="exp-box-text">
-    <ul>
-      <li><em>2025.07 - Present</em>, <strong>Research Intern</strong>
-        <ul>
-          <li>Advisor: <a href="https://sites.google.com/view/fromandto">Prof. Hao Zhao</a> | <a href="https://air.tsinghua.edu.cn/en/index.htm">Institute for AI Industry Research (AIR), Tsinghua University</a></li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-  <div class="exp-box-image">
-    <div><img src="images/tsinghua.png" alt="sym" width="80%"></div>
-  </div>
-</div>
-
-<div class="exp-box">
-  <div class="exp-box-text">
-    <ul>
-      <li><em>2023.07 - 2025.07</em>, <strong>Research Assistant</strong>
-        <ul>
-          <li>Advisor: <a href="http://www.captain-whu.com/en/person/xiaguisong.html">Prof. Gui-Song Xia</a>, <a href="https://levenberg.github.io/">Prof. Huai Yu</a> | <a href="http://www.captain-whu.com/en/">CAPTAIN Lab, Wuhan University</a></li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-  <div class="exp-box-image">
-    <div><img src="images/captain.png" alt="sym" width="80%"></div>
-  </div>
-</div>
-
-<div class="exp-box">
-  <div class="exp-box-text">
-    <ul>
-      <li><em>Fall 2024</em>, <strong>Teaching Assistant</strong>
-        <ul>
-          <li><em>Computer Organization and Design</em> | <a href="https://en.whu.edu.cn/">Wuhan University</a></li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-  <div class="exp-box-image">
-    <div><img src="images/whu.png" alt="sym" width="80%"></div>
-  </div>
-</div>
-
-<div class="exp-box">
-  <div class="exp-box-text">
-    <ul>
-      <li><em>Spring 2024</em>, <strong>Teaching Assistant</strong>
-        <ul>
-          <li><em>Digital Logic and Digital Circuits</em> | <a href="https://en.whu.edu.cn/">Wuhan University</a></li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-  <div class="exp-box-image">
-    <div><img src="images/whu.png" alt="sym" width="80%"></div>
-  </div>
-</div>
-
-# 🎖 Honors and Awards
-- *2025*
-  - **National Scholarship** — Top 0.2% nationwide
-  - **Merit Student Award** — Top 5% university-wide
-  - **Outstanding Social Engagement Award** — Top 5% college-wide
-- *2024*
-  - **Luojia Undergraduate Research Fund** — Top 0.2% university-wide
-  - **Outstanding Student Award** — Top 10% university-wide
-- *2023*
-  - **Outstanding Student Award** — Top 10% university-wide
-
-<span class='anchor' id='-skills'></span>
-# 🛠️ Skills
-
-- **Coding**  
-  Python, C/C++, Java, Shell (Bash)
-
-- **Frameworks**  
-  PyTorch, ROS/ROS2, Gazebo
-
-- **Misc.**  
-  Docker, Git, Linux, Markdown, LaTeX
-
-
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=94a3b8&w=300&t=tt&d=zSEhmIfr3YpV77ZTwzKllyteVaCbfpPC20MieKREKPE&co=e6f7ff&ct=334155&cmo=38bdf8&cmn=22c55e'></script>
-
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-
-
+</section>

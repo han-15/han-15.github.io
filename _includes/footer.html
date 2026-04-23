@@ -1,0 +1,20 @@
+<div class="page__footer" role="contentinfo">
+  <footer>
+    <p class="page__footer-copyright">
+      &copy; {{ site.time | date: "%Y" }}
+      <span itemprop="copyrightHolder">{{ site.author.name | default: site.title }}</span>.
+      {% if site.author.email %}
+        <span class="page__footer-sep">·</span>
+        <a href="mailto:{{ site.author.email }}">Email</a>
+      {% endif %}
+      {% if site.repository %}
+        <span class="page__footer-sep">·</span>
+        <a href="https://github.com/{{ site.repository }}">Source</a>
+      {% endif %}
+      {% if site.author.googlescholar %}
+        <span class="page__footer-sep">·</span>
+        <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+      {% endif %}
+    </p>
+  </footer>
+</div>

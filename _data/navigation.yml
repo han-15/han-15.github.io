@@ -5,14 +5,3 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
-
-  - title: "Publications"
-    url: "/#-publications"
-  # - title: "Research Experience"
-    # url: "/#-research-experience"
-  - title: "Experience"
-    url: "/#-Experience"
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-  - title: "Skills"
-    url: "/#-skills"
